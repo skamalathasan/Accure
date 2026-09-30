@@ -2,7 +2,7 @@
 
 Accure is a simple financial tracker for small businesses. Record income and expenses, then see your totals and monthly trends on a dashboard.
 
-This is **V1 (MVP)**: no accounts, no bank connections, just a clean tool for tracking money in and out.
+This is **VERSION 1**: no accounts, no bank connections, just a clean tool for tracking money in and out.
 
 ## Features
 
